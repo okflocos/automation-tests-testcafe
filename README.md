@@ -9,7 +9,7 @@
 ### Documentação
 - [Documentação Oficial do TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/)
 
-### Installation
+### Instalação
  
 Primeiro vamos instalar o NVM (essa forma que vou mostrar como instalar é em Linux e Mac)
 
