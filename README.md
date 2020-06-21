@@ -99,12 +99,14 @@ testcafe safari tests/login.test.js
 ```
 Pode demorar um poquinho a rodar, ele irá abrir a página e vai executar mágica e você vai ver como é um teste automatizado! :D
 
+### Creditos 
+
+- Primeiramente o meu amigo havia mostrado a como realizar a primeira parte de teste automatizados também, ele é QA Senior e Community Manager da PerifaCode vou deixar o link dos artigos dele aqui [JuniorRocha](https://jrocha.dev/)
+
 ### Observações
 
 - Você pode usar esse repositório para poder montar seu ambiente de testes
 - Eu vou usar esse repositório para tentar ajudar outras pessoas que estão aprendendo sobre testes, então pretendo sempre que der atualizar ele com algo bacana
-
-- Tem um artigo que ensina a fazer isso também que foi feito primeiramente pelo meu amigo Junior Rocha,o link e (esse)[https://jrocha.dev/]
 
 - Esse repositório tem como objetivo compartilhar conhecimento e contribuir para profissionais da área de testes de software e coisas relacionadas para também dar visibilidade a esses profissionais.
 - Lembre-se sempre que testar é importante, mantém a qualidade, segurança e outras coisas importantes para aplicações, nunca deixe de realizar testes!
