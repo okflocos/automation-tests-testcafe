@@ -4,7 +4,7 @@
   
 - Pode ser utilizando em Linux, Mac e Windows, suporta navegadores de desktop, dispositivos móveis, remotos e na nuvem.
 
-- Você pode executar em um console e seus relatórios podem ser visualizados na interface de um sistema de CI.
+- Você pode executar em um console é seus relatórios podem ser visualizados na interface de um sistema de CI.
 
 ### Documentação
 - [Documentação Oficial do TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/)
@@ -41,7 +41,7 @@ Após todas as configurações necessárias vamos digitar no terminal:
 ```sh
 npm install -g testcafe
 ```
-E irá ser realizada a instação do TestCafe, as vezes pode demorar um pouquinho, não se preocupe.
+E irá ser realizada a instalação do TestCafe, as vezes pode demorar um pouquinho, não se preocupe.
 
 Agora vamos criar um diretório com o nome "tests" e dentro dele vamos digitar o comando no terminal:
 
@@ -67,7 +67,7 @@ test('Teste de login positivo', async t => {
 });
 ```
 
-Mas precisamos antes o que foi escrito nesse código:
+Mas precisamos antes analisar e compreender o que foi escrito nesse código:
 
 - Nós vamos importar a função "Selector" da biblioteca "testcafe"
 - Vamos declarar o objeto que vamos testar é também será declaramos a url que será testada
@@ -106,8 +106,7 @@ Pode demorar um poquinho a rodar, ele irá abrir a página e vai executar mágic
 ### Observações
 
 - Você pode usar esse repositório para poder montar seu ambiente de testes
-- Eu vou usar esse repositório para tentar ajudar outras pessoas que estão aprendendo sobre testes, então pretendo sempre que der atualizar ele com algo bacana
-
+- Eu vou usar esse repositório para tentar ajudar outras pessoas que estão aprendendo sobre testes, então pretendo sempre que der atualizar esse repositório com algo bacana
 - Esse repositório tem como objetivo compartilhar conhecimento e contribuir para profissionais da área de testes de software e coisas relacionadas para também dar visibilidade a esses profissionais.
 - Lembre-se sempre que testar é importante, mantém a qualidade, segurança e outras coisas importantes para aplicações, nunca deixe de realizar testes!
 
