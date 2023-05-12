@@ -1,6 +1,6 @@
 <h1 align="center">Testes Automatizados com TestCafe</h1>
 
-- TestCafe é uma ferramenta NodeJS para automatização de testes em Javacript e Typescript.
+- TestCafe é uma ferramenta NodeJS para automatização de testes em Javascript e Typescript.
   
 - Pode ser utilizando em Linux, Mac e Windows, suporta navegadores de desktop, dispositivos móveis, remotos e na nuvem.
 
